@@ -1,4 +1,3 @@
-<style>
 		.one {background:#2e316b;}
 		.one img {display:block;margin:0 auto;}
 		.one .con {margin:0 auto;width:1260px;height:100px;line-height:90px;text-align:center;font-size:22px;}
@@ -15,4 +14,3 @@
 		.one .close span input[type='checkbox']:checked + label:before {content:'\2714';/* 체크표시 유니코드 사용 */ color: #99a1a7;text-shadow:1px 1px #fff;background:#fff;border-color:#adb8c0;box-shadow:0px 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);}
 		.one .close a {margin-left:15px;color:#fff;}								
 		.one .close a i {font-size:48px;}
-</style>
