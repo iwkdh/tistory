@@ -1,4 +1,3 @@
-<script>	
 	//오늘 하루 안보기, 닫기
 	//쿠키설정	
 	function setCookie( name, value, expiredays )
@@ -41,4 +40,3 @@
 			$("#one1").show();
 		}
 	});
-</script>	
